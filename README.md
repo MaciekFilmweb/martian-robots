@@ -10,4 +10,4 @@ When the app is running open your browser and go to localhost:8080. You can past
 
 The app is still missing some features like logging or input validation.
 
-It was created using Eclipse Mars, of course.
+It was created using Eclipse Mars.
