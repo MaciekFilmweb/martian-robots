@@ -1,6 +1,6 @@
 # Martian Robots
 
-Creating this app is a recruitment task. The details can be found in attached "coding challenge.pdf" file.
+This project was created as a recruitment task, which details can be found in attached "coding challenge.pdf" file.
 
 To run the code you need to have Java 8 installed. 
 

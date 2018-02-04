@@ -5,7 +5,7 @@ import maciek.martianrobots.RobotLog;
 import maciek.martianrobots.RobotPosition;
 
 /**
- * Represents a martian robot. Can accept {@linkplain RobotCommand instructions}
+ * A martian robot that can accept {@linkplain RobotCommand instructions}
  * and generate {@linkplain ReportLog report}.
  */
 public class Robot {

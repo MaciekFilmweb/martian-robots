@@ -10,7 +10,7 @@ import maciek.martianrobots.output.Output.OutputBuilder;
 import maciek.martianrobots.robot.Robot;
 
 /**
- * Controls {@linkplain Robot robots}.
+ * Creates and controls the {@linkplain Robot robots}.
  */
 @RequiredArgsConstructor
 public class MartianRobotsController {
@@ -51,7 +51,7 @@ public class MartianRobotsController {
 	}
 
 	/**
-	 * Generates {@linkplain Output the output}.
+	 * Generates the {@linkplain Output output}.
 	 */
 	public Output generateOutput() {
 		OutputBuilder outputBuilder = Output.builder();

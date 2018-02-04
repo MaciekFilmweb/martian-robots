@@ -10,7 +10,7 @@ import maciek.martianrobots.RobotLog;
 
 /**
  * The {@linkplain MartianRobotsApp app's} parsed output. Contains
- * {@linkplain RobotLog robot log} of each {@linkplain Robot robot}.
+ * {@linkplain RobotLog log} from each {@linkplain Robot robot}.
  */
 @Value
 @Builder

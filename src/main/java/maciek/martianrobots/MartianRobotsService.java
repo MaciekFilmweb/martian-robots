@@ -7,7 +7,7 @@ import maciek.martianrobots.input.RobotInput;
 import maciek.martianrobots.output.OutputFormatter;
 
 /**
- * Encapsulates of the {@linkplain MartianRobotsApp} logic.
+ * Encapsulates the {@linkplain MartianRobotsApp app's} logic.
  */
 @RequiredArgsConstructor
 public class MartianRobotsService {
